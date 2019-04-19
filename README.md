@@ -1,6 +1,7 @@
 # zabbix_alert
 zabbix钉钉告警有图版
 
+![Aaron Swartz](https://github.com/ChampagneCui/zabbix_alert/blob/master/warning.png)
 
 本应用旨在zabbix钉钉告警时附上相关监控图，使得告警更加清晰
 
