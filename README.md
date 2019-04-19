@@ -36,7 +36,7 @@ wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-linux-x86_6
 
 另外钉钉本身是不支持直接发送图片的，所以我这里选用的是发送markdown格式
 
-钉钉告警的message：
+zabbix里设置告警的message：
 ```
 {
 '告警主机':'{HOST.NAME}',
